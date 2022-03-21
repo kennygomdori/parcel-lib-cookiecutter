@@ -1,0 +1,22 @@
+{
+  "name": "parcel-lib-cookiecutter",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.js",
+  "module": "dist/module.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "engines": {
+    "browsers": "> 1%, last 2 versions, not dead"
+  },
+  "isLibrary": true,
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}

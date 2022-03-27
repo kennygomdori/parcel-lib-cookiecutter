@@ -7,3 +7,6 @@ the [Parcel](https://parceljs.org/features/targets/) doc.
 
 
 This is a repo that is intended to be *forked*.
+```
+git clone --bare https://github.com/kennygomdori/parcel-lib-cookiecutter.git
+```
